@@ -6,7 +6,11 @@
   "repository": "https://github.com/faisaljubayer/chimera.git",
   "author": "H.A.B.M. Faisal Akandha",
   "license": "MIT",
-  "scripts":{
-	"start":"node ."
+  "scripts": {
+    "start": "babel-node src"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
   }
 }
