@@ -1,0 +1,12 @@
+{
+  "name": "Chimera",
+  "version": "1.0.0",
+  "description": "A review and news platform",
+  "main": "index.js",
+  "repository": "https://github.com/faisaljubayer/chimera.git",
+  "author": "H.A.B.M. Faisal Akandha",
+  "license": "MIT",
+  "scripts":{
+	"start":"node ."
+  }
+}
